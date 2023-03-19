@@ -1,7 +1,7 @@
 
 # Scraping and Visualizing IMDB Ratings
 
-Scraping and plotting a list of reviews for episodes of a TV series, using IMDB
+Scraping and plotting a list of ratings for episodes of a TV series, using IMDB
 
 
 
